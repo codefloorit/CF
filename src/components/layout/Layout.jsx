@@ -6,10 +6,12 @@ import FloatingButtons from "../common/FloatingButtons";
 import ScrollToTop from "../common/ScrollToTop";
 import ScrollProgressBar from "../common/ScrollProgressBar";
 import CookieConsent from "../common/CookieConsent";
+import CustomCursor from "../common/CustomCursor";
 
 const Layout = () => {
   return (
     <div className="min-h-screen flex flex-col bg-primary">
+      <CustomCursor />
       <ScrollToTop />
       <ScrollProgressBar />
       <Navbar />

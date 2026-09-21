@@ -15,6 +15,8 @@ export const navigation = [
 
   { label: 'About', path: '/about' },
 
+  { label: 'Our Work', path: '/case-studies' },
+
   {
     label: "IT Services",
     path: "/it-services",

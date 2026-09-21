@@ -3,9 +3,9 @@ import { motion } from "framer-motion";
 import { ArrowUpRight, ShieldAlert } from "lucide-react";
 
 const CTA = ({
-  eyebrow = "INITIALIZE CORPORATE ENGAGEMENT",
-  title = "Ready to transition into structured enterprise scale?",
-  description = "Connect with our centralized board of operations to deploy high-velocity IT automation frameworks, premium financial accounting compliance registries, or secure institutional MSME asset funding workflows.",
+  eyebrow = "GET STARTED",
+  title = "Ready to build something that scales?",
+  description = "Talk to Codefloor about your software project or your compliance workload — one accountable team for both.",
   primaryLabel = "Contact Us",
   primaryTo = "/contact",
   secondaryLabel = "Consulting Desk",

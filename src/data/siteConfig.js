@@ -12,13 +12,13 @@ export const siteConfig = {
   whatsapp: "+91 76984 75791",
   address: "Ahmedabad, Gujarat, India",
   businessHours: "Mon – Sat: 9:30 AM – 7:00 PM IST",
-  founded: 2024,
+  founded: 2025,
   social: {
     linkedin: "https://linkedin.com/company/alysian",
-    twitter: "https://twitter.com/alysianbiz",
-    instagram: "https://instagram.com/alysianbiz",
-    facebook: "https://facebook.com/alysianbiz",
-    youtube: "https://youtube.com/@alysianbiz",
+    // twitter: "https://twitter.com/alysianbiz",
+    instagram: "https://instagram.com/codefloorit",
+    facebook: "https://facebook.com/codefloorit",
+    // youtube: "https://youtube.com/@alysianbiz",
   },
   mapEmbed:
     "https://maps.app.goo.gl/xSdFu53tqhFGAfPu8",

@@ -78,7 +78,9 @@ export const awards = [
   { "title": "Fastest Growing Scale-Up Consultancy", "org": "Ahmedabad Business Forum", "year": "2026" }
 ];
 
+// Kept to technologies verified against actual project work (see data/projects.js)
+// or explicitly named in itServices.js — never inflated with unverified tooling.
 export const techStack = [
-  "React", "Next.js", "Node.js", "TypeScript", "Tailwind CSS", "Python",
-  "AWS", "MongoDB", "PostgreSQL", "Flutter", "React Native", "Figma",
+  "React", "Next.js", "React Native", "Flutter", "Node.js", "PostgreSQL",
+  "Firebase", "Razorpay", "AWS", "Azure", "Google Cloud", "Figma",
 ];

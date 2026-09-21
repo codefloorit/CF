@@ -15,9 +15,9 @@ const values = [
 
 const journey = [
   { year: siteConfig.founded, title: "Codefloor is founded", desc: "Started as a two-person tax consultancy in Ahmedabad." },
-  { year: 2024, title: "IT division launches", desc: "Added web and app development to serve existing clients end-to-end." },
-  { year: 2024, title: "50+th client milestone", desc: "Crossed 50+ active retainer clients across IT and tax services." },
-  { year: 2026, title: "120+ projects delivered", desc: "Serving clients across 25+ cities with a 10-person team." },
+  { year: 2025,title: "IT division launches", desc: "Added web and app development to serve existing clients end-to-end." },
+  { year: 2025,title: "50+th client milestone", desc: "Crossed 50+ active retainer clients across IT and tax services." },
+  { year: 2025,title: "120+ projects delivered", desc: "Serving clients across 25+ cities with a 10-person team." },
 ];
 
 const AboutUs = () => {

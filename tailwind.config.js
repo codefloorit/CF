@@ -5,14 +5,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#0C0A1D",
-        secondary: "#13102A",
-        card: "#1C1838",
-        accent: "#8B5CF6",
-        accent2: "#C4A962",
-        ink: "#F4F2FA",
-        muted: "#9890B3",
-        line: "rgba(228,220,255,0.08)",
+        primary: "#060913",
+        secondary: "#0A0F1A",
+        card: "#0B1220",
+        accent: "#D4AF37",
+        accent2: "#F5D76E",
+        ink: "#F5F3EE",
+        muted: "#A39C8E",
+        line: "rgba(244,242,240,0.08)",
       },
       fontFamily: {
         display: ["'Plus Jakarta Sans'", "sans-serif"],
@@ -21,18 +21,18 @@ export default {
       },
       backgroundImage: {
         "grid-pattern":
-          "linear-gradient(rgba(139,92,246,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(139,92,246,0.04) 1px, transparent 1px)",
+          "linear-gradient(rgba(212,175,55,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(212,175,55,0.05) 1px, transparent 1px)",
         "hero-glow":
-          "radial-gradient(60% 50% at 50% 0%, rgba(139,92,246,0.2) 0%, rgba(12,10,29,0) 70%)",
-        "accent-gradient": "linear-gradient(135deg, #8B5CF6 0%, #A78BFA 55%, #C4A962 100%)",
+          "radial-gradient(60% 50% at 50% 0%, rgba(212,175,55,0.16) 0%, rgba(6,9,19,0) 70%)",
+        "accent-gradient": "linear-gradient(135deg, #D4AF37 0%, #F5D76E 55%, #FFF5C3 100%)",
       },
       backgroundSize: {
         grid: "44px 44px",
       },
       boxShadow: {
-        glow: "0 0 40px -8px rgba(139,92,246,0.5)",
+        glow: "0 0 40px -8px rgba(212,175,55,0.45)",
         card: "0 8px 30px -12px rgba(0,0,0,0.55)",
-        "card-hover": "0 20px 45px -15px rgba(139,92,246,0.3)",
+        "card-hover": "0 20px 45px -15px rgba(212,175,55,0.25)",
       },
       animation: {
         float: "float 6s ease-in-out infinite",
