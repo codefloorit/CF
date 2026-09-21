@@ -14,7 +14,7 @@ export const siteConfig = {
   businessHours: "Mon – Sat: 9:30 AM – 7:00 PM IST",
   founded: 2025,
   social: {
-    linkedin: "https://linkedin.com/company/alysian",
+    linkedin: "https://linkedin.com/company/codefloorit",
     // twitter: "https://twitter.com/alysianbiz",
     instagram: "https://instagram.com/codefloorit",
     facebook: "https://facebook.com/codefloorit",
